@@ -19,6 +19,7 @@ public class ExController {
 		Map<String, String> rs = new HashMap<String, String>();
 		rs.put("att1", "test1");
 		rs.put("att2", "test2");
+		rs.put("att3", "test3");
 		return rs;
 	}
 }
